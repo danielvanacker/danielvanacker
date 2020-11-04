@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/8hkekbti9a221.jpg?width=960&crop=smart&auto=webp&s=d2cf78712fde564b1f97b2ff51e4e490a1184c89" width=1000 height=240.000 allowFullScreen></img>
+<img src="https://preview.redd.it/8hkekbti9a221.jpg?width=960&crop=smart&auto=webp&s=d2cf78712fde564b1f97b2ff51e4e490a1184c89" allowFullScreen></img>
 
 <!--
 **danielvanacker/danielvanacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
