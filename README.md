@@ -7,7 +7,7 @@
 - Backend Development: **Java/Spring, Python/Flask, SQL**
 - Tech I'm Interested in: **Kubernetes, Docker, and pretty much anything Cloud related**
 
-<img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=30 height=30/> Currently working towards taking the CKAD (certified kubernetes developer) exam .
+Currently working towards taking the CKAD (certified kubernetes developer) exam. <img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=30 height=30/> 
 
 <!--
 **danielvanacker/danielvanacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
