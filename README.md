@@ -2,6 +2,8 @@
 
 👋 Hello! My name is Daniel Van Acker. I am from Guelph, Canada and in my final year of computer science at McGill University. I enjoy learning about new technologies 💾,playing guitar 🎸, skiing ⛷, cooking 🍗, and gaming 🎮.
 
+Currently working towards taking the CKAD (certified kubernetes developer) exam. <img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=22 height=22/> 
+
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danvanacker/)](https://www.linkedin.com/in/danvanacker/)
 
@@ -11,7 +13,6 @@
 - Backend Development: **Java/Spring, Python/Flask, SQL**
 - Things I'm Interested in: **Kubernetes, Docker, and pretty much anything Cloud related**
 
-Currently working towards taking the CKAD (certified kubernetes developer) exam. <img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=22 height=22/> 
 
 ## Projects
 - [A small budegeting web app hosted on AWS](http://budgetwebapp.com)
