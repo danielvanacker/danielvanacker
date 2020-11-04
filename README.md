@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/7VH.gif" width=480 height=240.000 allowFullScreen></img>
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width=480 height=240.000 allowFullScreen></img>
 
 <!--
 **danielvanacker/danielvanacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
