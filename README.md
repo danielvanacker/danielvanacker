@@ -1,5 +1,14 @@
 <img src="https://preview.redd.it/8hkekbti9a221.jpg?width=960&crop=smart&auto=webp&s=d2cf78712fde564b1f97b2ff51e4e490a1184c89" allowFullScreen></img>
 
+👋 Hello! My name is Daniel Van Acker. I am from Guelph, Canada and in my final year of computer science at McGill University. I enjoy learning about new technologies, skiing, cooking, and gaming.
+
+## Tech
+- Frontend Development: **Angular, Vue.js, Node.js, JavaScript, and TypeScript**
+- Backend Development: **Java/Spring, Python/Flask, SQL**
+- Tech I'm Interested in: **Kubernetes, Docker, and pretty much anything Cloud related**
+
+<img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=10 height=10/> Currently working towards taking the CKAD (certified kubernetes developer) exam .
+
 <!--
 **danielvanacker/danielvanacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
