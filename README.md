@@ -2,7 +2,7 @@
 
 👋 Hello! My name is Daniel Van Acker. I am from Guelph, Canada and in my final year of computer science at McGill University. I enjoy learning about new technologies 💾,playing guitar 🎸, skiing ⛷, cooking 🍗, and gaming 🎮.
 
-Currently working towards taking the CKAD (certified kubernetes developer) exam. <img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=22 height=22/> 
+Currently working towards taking the CKAD (certified kubernetes application developer) exam. <img align='left' src="https://emojis.slackmojis.com/emojis/images/1481862863/1491/kubernetes.png?1481862863" width=22 height=22/> 
 
 ## Tech
 - Frontend Development: **Angular, Vue.js, Node.js, JavaScript, and TypeScript**
