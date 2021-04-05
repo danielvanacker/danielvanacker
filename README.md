@@ -1,11 +1,8 @@
-<img src="https://preview.redd.it/8hkekbti9a221.jpg?width=960&crop=smart&auto=webp&s=d2cf78712fde564b1f97b2ff51e4e490a1184c89" allowFullScreen></img>
-
 👋 Hello! My name is Daniel Van Acker. I am from Guelph, Canada and in my final year of computer science at McGill University. I enjoy learning about new technologies 💾,playing guitar 🎸, skiing ⛷, cooking 🍗, and gaming 🎮.
 
 ## Tech
-- Frontend Development: **React, Angular, Node.js, JavaScript, and TypeScript**
-- Backend Development: **Java/Spring, Python/Flask, SQL**
-- Things I'm Interested in: **Kubernetes, Docker, and pretty much anything Cloud related**
+- Frontend Development: **Typescript, React, Angular, Node.js, and JavaScript**
+- Backend Development: **Typescript, Java/Spring, Python/Flask, SQL**
 
 ## Projects
 - 💰 [A small budegeting web app hosted on AWS](http://budgetwebapp.com)
