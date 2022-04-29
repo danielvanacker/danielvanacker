@@ -5,7 +5,7 @@
 - Backend Development: **Typescript, Java/Spring, Python/Flask, SQL**
 
 ## Projects
-- 💰 [A small budegeting web app hosted on AWS](http://budgetwebapp.com)
+- 💰 [A small budegeting web app](https://github.com/danielvanacker/BudgetApp)
 - ⌛️ [Benchmarking in-memory dattabases and data structures using TPC-H](https://github.com/danielvanacker/TpchBenchmarking)
 - ⚾️ [A web scraper used to scrape MLB games, bets, and scores](https://github.com/danielvanacker/mock-bet)
 - 🎲 [An AI agent designed to play a modified version of Saboteur](https://github.com/danielvanacker/SaboteurComp424)
