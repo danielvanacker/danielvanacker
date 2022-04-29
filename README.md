@@ -1,4 +1,4 @@
-👋 Hello! My name is Daniel Van Acker. I am from Guelph, Canada and in my final year of computer science at McGill University. I enjoy learning about new technologies 💾,playing guitar 🎸, skiing ⛷, cooking 🍗, and gaming 🎮.
+👋 Hello! My name is Daniel Van Acker. I am currently helping to build [Modernbanc](https://modernbanc.com). I enjoy learning about new technologies 💾,playing guitar 🎸, skiing ⛷, cooking 🍗, and gaming 🎮.
 
 ## Tech
 - Frontend Development: **Typescript, React, Angular, Node.js, and JavaScript**
