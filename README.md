@@ -14,7 +14,7 @@
 - ⌛️ [Benchmarking in-memory dattabases and data structures using TPC-H](https://github.com/danielvanacker/TpchBenchmarking)
 - ⚾️ [A web scraper used to scrape MLB games, bets, and scores](https://github.com/danielvanacker/mock-bet)
 - 🎲 [An AI agent designed to play a modified version of Saboteur](https://github.com/danielvanacker/SaboteurComp424)
--  [Facial recognition login and embedded skype calling](https://github.com/danielvanacker/McHacks2019)
+- 🙂 [Facial recognition login and embedded skype calling](https://github.com/danielvanacker/McHacks2019)
 - 📄 [Financial statement parser and categorizer](https://github.com/danielvanacker/Blochacks2018)
 - 🤖 [An sms based chatbot for weather, directions, news, etc...](https://github.com/blueNoteb5/mchacks-mr-worldwide)
 
